@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fathurrachmann&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fathurrachmann&icon=3&color=12)](https://visitcount.itsvg.in)
